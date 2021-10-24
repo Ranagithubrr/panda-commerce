@@ -1,0 +1,71 @@
+.slider-area{
+    background:#FCEBE9;
+    padding:40px;
+}
+.slider-left{
+    padding: 50px 30px;
+}
+.buy-btn{
+    background:#FF5196;
+    color:#fff;
+    border:none;
+    padding: 8px 15px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+.watch-area{
+    background:#FFC107;
+}
+.bag-area{
+    background:#198754;
+}
+.shoes-area{
+    background:#0D6EFD;
+}
+.inner-divs h3{
+    font-size:35px;
+    font-weight:600;
+}
+.inner-divs{
+    padding:20px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+    color:#fff;
+}
+.my-card{
+    box-shadow: 2px 6px 16px #b9b4;
+    /* height:400px; */
+    padding-bottom:10px;
+}
+.buybtn{
+    text-decoration:none;
+    background:#FF5297;
+    padding:8px 18px;
+    border-radius:5px;
+    color:#fff;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+.buybtn:hover{
+    text-decoration:none;
+    color:#fff;
+}
+.get-in-touch{
+    background:#FCEAE8;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+.in-touch{
+    width:40%;
+}
